@@ -17,4 +17,10 @@ ecological links. <br>
 * ✉️  You can contact me at [matheus.picolotto@unesp.br](matheus.picolotto@unesp.br)
 * 🤝  I'm open to collaborating on interesting projects!
 
+#### **Skills:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gab-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Gab-github" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+ 
 
