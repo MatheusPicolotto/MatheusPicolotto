@@ -24,7 +24,6 @@ ecological links. <br>
 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 
 
- **My Lattes curriculum** <br>
-[<img width="22px" src="https://www.shadcn.io/icon/academicons-lattes"/>](http://lattes.cnpq.br/4669102311219111) <br>
-
+**My Lattes curriculum** <br>
+[<img width="22px" src="./logo.jpg"/>](http://lattes.cnpq.br/4669102311219111) <br>
 
