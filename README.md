@@ -23,7 +23,10 @@ ecological links. <br>
   <img align="center" alt="Gab-github" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 
-
+___
 **My Lattes curriculum** <br>
+
 [<img width="22px" src="./logo.jpg"/>](http://lattes.cnpq.br/4669102311219111) <br>
+
+
 
